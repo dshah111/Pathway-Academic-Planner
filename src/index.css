@@ -1,15 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 /* Pathway Design System - Academic Planning Platform
-   Theme: Premium academic SaaS - calm, intelligent, trustworthy
-   Primary: Indigo/Violet
-   Accents: Sky blue
-   Background: Off-white
+  Theme: Premium academic SaaS - calm, intelligent, trustworthy
+  Primary: Indigo/Violet
+  Accents: Sky blue
+  Background: Off-white
 */
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 @layer base {
   :root {
